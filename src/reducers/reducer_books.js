@@ -1,6 +1,6 @@
 export default function() {
 	return [
-		{ title: 'Javascript the good parts' },
+		{ title: 'Javascript: The Good Parts' },
 		{ title: 'Harry Potter' },
 		{ title: 'The Dark Tower' },
 		{ title: 'Elequent Ruby' }
